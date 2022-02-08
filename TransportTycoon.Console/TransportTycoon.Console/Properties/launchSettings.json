@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TransportTycoon.Console": {
+      "commandName": "Project",
+      "commandLineArgs": "Steamdrift Leverstorm"
+    }
+  }
+}
